@@ -1,3 +1,5 @@
+package Array;
+
 class Solution {
     public void sortColors(int[] nums) {
         int count0 = 0, count1 = 0, count2 = 0;

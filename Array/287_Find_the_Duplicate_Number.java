@@ -1,3 +1,5 @@
+package Array;
+
 // class Solution {
 //     public int findDuplicate(int[] nums) {
 //         Arrays.sort(nums);
